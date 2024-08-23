@@ -1,5 +1,5 @@
 ## Análise Financeira - Análise de Dados com Power BI
-Projeto de análise de dados desenvolvido utilizando o Power com o objetivo de efetuar a análise financeira de uma empresa fictícia.  
+Projeto de análise de dados desenvolvido utilizando o Power BI com o objetivo de efetuar a análise financeira de uma empresa fictícia.  
 <br>
 ## Cenário
 A empresa precisava ter a visão das receitas e despesas para elaborar o seu planejamento financeiro. Dessa maneira, solicitou a apresentação de alguns indicadores: Total de Receitas, Total de Despesas, Margem de Lucro, Total de Receitas por Componente, Total de Despesa do Componente e por ano com a hierarquia por Tipo e Componente, e os segmentos onde Receitas e Despesas são maiores e menores. Onde, **Tipo** refere-se a Receitas e Despesas e **Componente** refere-se à classificação das receitas e despesas em Administrativo, Aluguéis, Franquias, Impostos, Investimentos, Licenciamento, Marketing, Publicidade, Salários, Segurança, Tecnologia e Vendas.
